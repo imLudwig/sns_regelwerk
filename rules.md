@@ -52,7 +52,6 @@ Test für eine erklärung dazwischen
 - auch ein weiteres element
 
 | Item Name | Weight | Damage | Special Properties |
-| :--- | :--- | :--- | :--- |
 | Iron Sword | 3kg | 1d8 | Versatile |
 | Wooden Shield | 2kg | +2 AC | Breakable |
 | Leather Armor | 5kg | 11 + Dex | Light Weight |
