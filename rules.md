@@ -4,7 +4,7 @@ Letzte Aktualisierung: 20. Oktober 2025
 Dieses Regelwerk ist für alle Spieler von Saints & Sinners bindend.
 
 # OOC-Regeln
-## Discord Regeln
+## Discord Regeln 
 1. Berücksichtigen Sie die Nutzungsbedingungen von Discord.
 2. Respektvolles Verhalten gegenüber allen Mitgliedern.
 3. Keine unangemessenen (NSFW), rassistischen oder pornografischen Inhalte.
