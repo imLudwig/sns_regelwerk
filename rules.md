@@ -279,7 +279,7 @@ Wirklich Exzessives Farmen von Missionen, Ressourcen oder Items mit dem Ziel sch
 Das sinnlose oder übermäßige Verschenken von Gegenständen, Pferden, Geld, Housing oder anderen wirtschaftlich relevanten Inhalten ist nicht gestattet. Massives Begünstigen außerhalb des realistischen oder rollenspielerisch nachvollziehbaren Rahmens führt zur unwiderruflichen Löschung der Inhalte.
 
 ## Ärzte & medizinisches RP:
-## Korruptionsverbot für staatliche Ärzte
+### Korruptionsverbot für staatliche Ärzte
 Staatliche Ärzte unterliegen der Korruptionsregelung und haben sich entsprechend neutral und gesetzestreu zu verhalten. 
 
 – Es ist staatlichen Ärzten untersagt, illegale Substanzen (z. B. Joints, Heroin, Cannabis oder andere Drogen) zu verkaufen, weiterzugeben oder in irgendeiner Form am Handel oder Weiterverkauf zu beteiligen.
