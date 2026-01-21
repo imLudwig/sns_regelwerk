@@ -91,7 +91,7 @@ Das Abspielen von Musikaufnahmen im Sprachchat ist nicht erlaubt. Selbst erstell
 ### Tier- & Kindercharaktere
 Das Bespielen von Tier- und Kindercharakteren ist nicht gestattet.
 
-## Metagaming & Powergaming:**
+## Metagaming & Powergaming:
 
 ### IC/OOC-Trennung
 IC ist IC, OOC ist OOC. Keine Vermischung. Verstöße führen zu Ermahnungen oder Bann. Wir spielen ein Spiel – Rivalitäten sind genauso Teil davon wie Freundschaft.
