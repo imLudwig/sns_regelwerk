@@ -1,7 +1,6 @@
 
-# Information
-## Letzte Aktualisierung
-Stand: 20. Mai 2024 (Version 1.4)
+# Informationen
+Letzte Aktualisierung: 20. Oktober 2025
 Dieses Regelwerk ist für alle Spieler von Saints & Sinners bindend.
 
 # OOC-Regeln
