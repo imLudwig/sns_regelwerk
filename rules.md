@@ -17,11 +17,7 @@ Community Selbstverständnis:
 
 ### Jegliche Form von Belästigung, sei es verbal, körperlich (IC) oder durch wiederholte unerwünschte OOC-Kontakte, wird nicht toleriert.
 
-# IC-Regeln
-
-für das Spielen auf Saints & Sinners
-
-# Grundsatz & Einstieg:
+# IC-Regeln für das Spielen auf Saints & Sinners
 
 ## Immersion & Realismus
 Alle Teilnehmenden verpflichten sich, ihre Charaktere konsistent und glaubwürdig im Jahr 1899 zu verkörpern. Handlungen sollen nachvollziehbar und stimmig mit dem historischen Setting sein.
