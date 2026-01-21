@@ -1,26 +1,27 @@
-# Community Selbstverständnis von Saints & Sinners
+# OOC Regeln
+## Community Selbstverständnis von Saints & Sinners
 
-## Discord Regeln:
+### Discord Regeln:
 Es gelten die Discord-Nutzungsbedingungen. Als störend empfundenes Verhalten wird je nach Schwere mit einem Mute, Kick oder Bann geahndet.
 Community Selbstverständnis:
 
-## Mitglieder der Community werden außerhalb des Rollenspiels nicht ohne Einverständnis kontaktiert.
+### Mitglieder der Community werden außerhalb des Rollenspiels nicht ohne Einverständnis kontaktiert.
 
-## Im Falle von Konflikten oder Missverständnissen wird ein konstruktiver Dialog gesucht, um Lösungen zu finden. Bei Bedarf wird eine neutrale Instanz (Support-Team) hinzugezogen.
+### Im Falle von Konflikten oder Missverständnissen wird ein konstruktiver Dialog gesucht, um Lösungen zu finden. Bei Bedarf wird eine neutrale Instanz (Support-Team) hinzugezogen.
 
-## Bei Verstößen gegen die Community-Richtlinien können Strafen wie Verwarnungen, temporäre Stummschaltungen, zeitliche oder permanente Ausschlüsse verhängt werden. Sowohl auf dem Saints&Sinners als auch Partnerprojekten.
+### Bei Verstößen gegen die Community-Richtlinien können Strafen wie Verwarnungen, temporäre Stummschaltungen, zeitliche oder permanente Ausschlüsse verhängt werden. Sowohl auf dem Saints&Sinners als auch Partnerprojekten.
 
-## Mitglieder tragen aktiv zur Entwicklung und zum Wohl der Community bei, sei es durch das Erstellen von Inhalten, das Organisieren von Events oder das Unterstützen neuer Mitglieder.
+### Mitglieder tragen aktiv zur Entwicklung und zum Wohl der Community bei, sei es durch das Erstellen von Inhalten, das Organisieren von Events oder das Unterstützen neuer Mitglieder.
 
-## Jeder Spieler trägt dazu bei, eine freundliche und einladende Atmosphäre zu schaffen, in der sich alle sicher und respektiert fühlen.
+### Jeder Spieler trägt dazu bei, eine freundliche und einladende Atmosphäre zu schaffen, in der sich alle sicher und respektiert fühlen.
 
-## Jegliche Form von Belästigung, sei es verbal, körperlich (IC) oder durch wiederholte unerwünschte OOC-Kontakte, wird nicht toleriert.
+### Jegliche Form von Belästigung, sei es verbal, körperlich (IC) oder durch wiederholte unerwünschte OOC-Kontakte, wird nicht toleriert.
 
 # IC-Regeln
 
 für das Spielen auf Saints & Sinners
 
-# Grundsatz & Einstieg:**
+# Grundsatz & Einstieg:
 
 ## Immersion & Realismus
 Alle Teilnehmenden verpflichten sich, ihre Charaktere konsistent und glaubwürdig im Jahr 1899 zu verkörpern. Handlungen sollen nachvollziehbar und stimmig mit dem historischen Setting sein.
