@@ -50,6 +50,15 @@ Dieses Regelwerk ist für alle Spieler von Saints & Sinners bindend.
 Test für eine erklärung dazwischen
 - das hier ist eine liste
 - auch ein weiteres element
+
+| Item Name | Weight | Damage | Special Properties |
+| :--- | :--- | :--- | :--- |
+| Iron Sword | 3kg | 1d8 | Versatile |
+| Wooden Shield | 2kg | +2 AC | Breakable |
+| Leather Armor | 5kg | 11 + Dex | Light Weight |
+| `Health Potion` | 0.5kg | N/A | **Single Use Only** |
+
+
 ### **Powergaming:** Aktionen ohne Reaktionsmöglichkeit (z.B. Blitzfesseln) sind verboten.
 ### **Lasso:** Werfen zum Fesseln verboten (Powergaming). Fesseln am Boden erlaubt.
 ### **Scene-Tool:** Nur für RP-Bereicherung nutzen. Keine fremden Gebäude ohne Ticket zerstören.
