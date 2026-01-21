@@ -1,44 +1,22 @@
-# OOCRegeln für das Spielen auf Saints & Sinners
+# Community Selbstverständnis von Saints & Sinners
 
-Discord Regeln:
-
-Berücksichtigen Sie die Nutzungsbedingungen von Discord: Nutzungsbedingungen
-
-Respektvolles Verhalten: Alle Mitglieder sollten sich gegenseitig mit Respekt behandeln. Beleidigungen, Diskriminierung, Mobbing oder Belästigung anderer Mitglieder sind nicht gestattet.
-
-Keine unangemessenen Inhalte: Es sollten keine NSFW-Inhalte (Not Safe for Work) oder explizite, beleidigende, rassistische, pornografische oder anderweitig unangemessene Inhalte geteilt werden. Der Server sollte eine sichere und freundliche Umgebung für alle bieten.
-
-Kein Spamming oder Flooding: Spamming oder Flooding des Chats mit wiederholten Nachrichten, Emotes oder unerwünschten Inhalten ist nicht erlaubt. Es ist wichtig, dass der Chat übersichtlich bleibt und alle Mitglieder die Möglichkeit haben, sich zu beteiligen.
-
-Einhaltung der Kanalthemen: Jeder Kanal auf dem Server sollte für den vorgesehenen Zweck genutzt werden. Off-Topic-Diskussionen sollten vermieden werden, um die Organisation und den Informationsfluss zu erleichtern, nutzt dafür den Sinner-Talk.
-
-Kein Werben ohne Erlaubnis: Das eigenständige Bewerben oder Teilen von Werbung für andere Server, Communities oder Produkte ist ohne vorherige Genehmigung der Serverleitung nicht gestattet.
-
-Verwendung angemessener Nicknamen und Avatare: Die Mitglieder sollten angemessene Nicknamen und Avatare verwenden, die keine beleidigenden oder unangebrachten Inhalte enthalten.
-
-Feedback und Kritik: Feedback ist erwünscht, achtet darauf, dass dieses Feedback konstruktiv ist. Hetzte ist untersagt und wird mit einem Ausschluss vom Projekt geahndet.
-
-Respektierung der Moderationsentscheidungen: Die Entscheidungen der Serverleitung und der Moderatoren sollten respektiert werden. Wenn es Fragen oder Bedenken gibt, können diese in angemessener Weise an das Moderationsteam weitergeleitet werden.
-
-Datenschutz: Die Mitglieder sollten persönliche Informationen wie Telefonnummern, Adressen oder Passwörter nicht im Server teilen. Es ist wichtig, den Datenschutz und die Sicherheit aller Mitglieder zu gewährleisten.
-
-Spaß haben: Der Server sollte ein Ort sein, an dem alle Mitglieder Spaß haben und sich wohl fühlen können. Positive Interaktionen, hilfreiche Diskussionen und gemeinsame Aktivitäten sollten gefördert werden.
-
+## Discord Regeln:
+Es gelten die Discord-Nutzungsbedingungen. Als störend empfundenes Verhalten wird je nach Schwere mit einem Mute, Kick oder Bann geahndet.
 Community Selbstverständnis:
 
-Mitglieder der Community werden außerhalb des Rollenspiels nicht ohne Einverständnis kontaktiert.
+## Mitglieder der Community werden außerhalb des Rollenspiels nicht ohne Einverständnis kontaktiert.
 
-Im Falle von Konflikten oder Missverständnissen wird ein konstruktiver Dialog gesucht, um Lösungen zu finden. Bei Bedarf wird eine neutrale Instanz (Support-Team) hinzugezogen.
+## Im Falle von Konflikten oder Missverständnissen wird ein konstruktiver Dialog gesucht, um Lösungen zu finden. Bei Bedarf wird eine neutrale Instanz (Support-Team) hinzugezogen.
 
-Bei Verstößen gegen die Community-Richtlinien können Strafen wie Verwarnungen, temporäre Stummschaltungen, zeitliche oder permanente Ausschlüsse verhängt werden. Sowohl auf dem Saints&Sinners als auch Partnerprojekten.
+## Bei Verstößen gegen die Community-Richtlinien können Strafen wie Verwarnungen, temporäre Stummschaltungen, zeitliche oder permanente Ausschlüsse verhängt werden. Sowohl auf dem Saints&Sinners als auch Partnerprojekten.
 
-Mitglieder tragen aktiv zur Entwicklung und zum Wohl der Community bei, sei es durch das Erstellen von Inhalten, das Organisieren von Events oder das Unterstützen neuer Mitglieder.
+## Mitglieder tragen aktiv zur Entwicklung und zum Wohl der Community bei, sei es durch das Erstellen von Inhalten, das Organisieren von Events oder das Unterstützen neuer Mitglieder.
 
-Jeder Spieler trägt dazu bei, eine freundliche und einladende Atmosphäre zu schaffen, in der sich alle sicher und respektiert fühlen.
+## Jeder Spieler trägt dazu bei, eine freundliche und einladende Atmosphäre zu schaffen, in der sich alle sicher und respektiert fühlen.
 
-Jegliche Form von Belästigung, sei es verbal, körperlich (IC) oder durch wiederholte unerwünschte OOC-Kontakte, wird nicht toleriert.
+## Jegliche Form von Belästigung, sei es verbal, körperlich (IC) oder durch wiederholte unerwünschte OOC-Kontakte, wird nicht toleriert.
 
-IC-Regeln
+# IC-Regeln
 
 für das Spielen auf Saints & Sinners
 
