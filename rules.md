@@ -47,6 +47,9 @@ Dieses Regelwerk ist für alle Spieler von Saints & Sinners bindend.
 
 ## Metagaming & Powergaming
 ### **IC/OOC-Trennung:** Absolute Trennung von Spiel und Realität.
+Test für eine erklärung dazwischen
+- das hier ist eine liste
+- auch ein weiteres element
 ### **Powergaming:** Aktionen ohne Reaktionsmöglichkeit (z.B. Blitzfesseln) sind verboten.
 ### **Lasso:** Werfen zum Fesseln verboten (Powergaming). Fesseln am Boden erlaubt.
 ### **Scene-Tool:** Nur für RP-Bereicherung nutzen. Keine fremden Gebäude ohne Ticket zerstören.
