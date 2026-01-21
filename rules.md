@@ -3,7 +3,6 @@
 
 ### Discord Regeln:
 Es gelten die Discord-Nutzungsbedingungen. Als störend empfundenes Verhalten wird je nach Schwere mit einem Mute, Kick oder Bann geahndet.
-Community Selbstverständnis:
 
 ### Mitglieder der Community werden außerhalb des Rollenspiels nicht ohne Einverständnis kontaktiert.
 
