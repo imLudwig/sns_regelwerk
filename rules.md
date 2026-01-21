@@ -1,7 +1,7 @@
 # OOC Regeln
 ## Community Selbstverständnis von Saints & Sinners
 
-### Discord Regeln:
+### Discord Regeln 
 Es gelten die Discord-Nutzungsbedingungen. Als störend empfundenes Verhalten wird je nach Schwere mit einem Mute, Kick oder Bann geahndet.
 
 ### Mitglieder der Community werden außerhalb des Rollenspiels nicht ohne Einverständnis kontaktiert.
@@ -77,7 +77,7 @@ Einwohnerzahlen:
 NPCs, die gefunden werden, sind grundsätzlich als bewusstlos anzusehen und nur bei direkter Markierung als tot zu bespielen. Werden NPCs dazu benutzt, einen Tatort zu fingieren, ist dringend darauf zu achten, entsprechende Hinweise für die Identifizierung durch den Arzt zu hinterlassen (RP fördern).
 
 ### Kutschen & Pferde
-Unrealistisches Nutzen von Kutschen und Pferden in Bezug auf Geschwindigkeit und Verhalten beim Reiten ist nicht gestattet. Kutschen bitte nur im Stall rufen. Ausnahme: bei instanzierten Gebäuden oder beim 32-Spieler-Sync dürfen Kutschen weggeschickt und später wieder abgerufen werden. Das Entlangreiten auf Gleisen wird als Fail-RP gewertet und entsprechend sanktioniert.
+Unrealistisches Nutzen von Kutschen und Pferden in Bezug auf Geschwindigkeit und Verhalten beim Reiten ist nicht gestattet. Kutschen bitte nur im Stall rufen. `Ausnahme`: bei instanzierten Gebäuden oder beim 32-Spieler-Sync dürfen Kutschen weggeschickt und später wieder abgerufen werden. Das Entlangreiten auf Gleisen wird als Fail-RP gewertet und entsprechend sanktioniert.
 
 ### Ausloggen im RP
 Das Ausloggen in aktiven RP-Situationen ist untersagt. Ausnahmen bilden dringende, unaufschiebbare Situationen im Real Life; hier bitte unbedingt eine Meldung an den Support. Nach einem Überfall dürfen sich Spieler nicht direkt ausloggen. Es ist eine Wartezeit von mindestens 30 Minuten einzuhalten. Das direkte Umziehen nach einem Überfall ist untersagt (Wartezeit mindestens 20 Minuten).
@@ -91,7 +91,7 @@ Das Abspielen von Musikaufnahmen im Sprachchat ist nicht erlaubt. Selbst erstell
 ### Tier- & Kindercharaktere
 Das Bespielen von Tier- und Kindercharakteren ist nicht gestattet.
 
-## Metagaming & Powergaming:
+## Metagaming & Powergaming
 
 ### IC/OOC-Trennung
 IC ist IC, OOC ist OOC. Keine Vermischung. Verstöße führen zu Ermahnungen oder Bann. Wir spielen ein Spiel – Rivalitäten sind genauso Teil davon wie Freundschaft.
@@ -169,7 +169,7 @@ Blood-in/Blood-out-Material muss per Video dem Team vorgelegt werden. Ab dem dri
 ### Maximale Gruppengröße
 Die maximale Gruppengröße einer Gruppierung ist auf 10 Spieler beschränkt, um Monopolstellungen zu vermeiden.
 
-## Korruption:
+## Korruption 
 
 ### Korruption erlaubt
 Korruption ist mit sinnvollem RP-Hintergrund erlaubt. Wiederholtes Wegschauen bei Straftaten oder das Weitergeben von staatlichen Informationen kann ebenfalls als Korruption gewertet werden. Extreme Korruption, die nur der persönlichen Bereicherung dient, ist verboten und wird hart geahndet (z. B. ein Officer lässt sich von sämtlichen Banden bezahlen, schenkt aber dadurch keinem RP).
@@ -242,7 +242,7 @@ Der Tod eines Charakters muss immer mit dem Support abgesprochen werden. Nach Nu
 ### Testament
 Im Falle eines Charaktertodes ist es erlaubt, Besitz zu vererben – sofern ein schriftlich hinterlegtes Testament im RP existiert und die Übergabe ausgespielt wird. Ohne Testament erfolgt keine Übertragung von Besitztümern. Das Testament muss dem Support in einem Ticket vorgelegt werden.
 
-## Sisika & Zellen-RP:
+## Sisika & Zellen-RP 
 
 ### Hochsicherheitsstatus
 Realismus: Sisika muss als gefürchteter Hochsicherheitstrakt ausgespielt werden. Ein Aufenthalt hier verändert deinen Charakter.
@@ -256,7 +256,7 @@ Die Zeit in der Gefängniszelle soll vom Gefangenen als lange Haftzeit ausgespie
 ### Zeit auf Sisika
 Bei Haft in Sisika bitte ein Ticket eröffnen. Sisika ist kein Softban – du erhältst RP, solange du dort bist. Die Zeit muss so ausgespielt werden, dass sie sich lang anfühlt; „nur eine Woche“ zu behaupten, wird als Fail-RP gewertet.
 
-## Konzepte & Aktivität:
+## Konzepte & Aktivität 
 
 ### Aktivitätspflicht
 Jeder Inhaber eines offiziellen Konzepts muss dieses aktiv und regelmäßig im RP bespielen.
@@ -267,17 +267,17 @@ Abwesenheiten ab 7 Tagen sind dem Team über ein Ticket mitzuteilen – idealerw
 ### Konsequenz bei Inaktivität
 Bei unangekündigter oder anhaltender Inaktivität kann das Konzept ohne Vorwarnung entzogen und ggf. neu vergeben werden.
 
-## Wirtschaft & Farmen:
+## Wirtschaft & Farmen 
 
 ### Wirtschaft & Grindverhalten
 Wirklich Exzessives Farmen von Missionen, Ressourcen oder Items mit dem Ziel schneller Reichtümer widerspricht dem Geist dieses Servers. Es ist nicht Ziel nach einer Woche alles zu besitzen. Unser Fokus liegt auf tiefem, erzählerischem RP – nicht auf Progress-Grind. Auffälliges Grindverhalten kann zu einem Gespräch mit dem Team führen. Unvertretbare wirtschaftliche Ausnutzung kann zu einem Entzug der erlangten Güter führen. Wirtschaft entsteht aus Roleplay – nicht umgekehrt.
 
-## Eigentum & Besitz:
+## Eigentum & Besitz 
 
 ### Verschenken verboten
 Das sinnlose oder übermäßige Verschenken von Gegenständen, Pferden, Geld, Housing oder anderen wirtschaftlich relevanten Inhalten ist nicht gestattet. Massives Begünstigen außerhalb des realistischen oder rollenspielerisch nachvollziehbaren Rahmens führt zur unwiderruflichen Löschung der Inhalte.
 
-## Ärzte & medizinisches RP:
+## Ärzte & medizinisches RP 
 ### Korruptionsverbot für staatliche Ärzte
 Staatliche Ärzte unterliegen der Korruptionsregelung und haben sich entsprechend neutral und gesetzestreu zu verhalten. 
 
@@ -295,7 +295,7 @@ Das Ausspielen spezieller medizinischer Fachrichtungen wie Psychologen, Frauenä
 ### Ausspielen von Krankheiten
 Erkrankungen der Sexualorgane, Schwangerschaften und Totgeburten sind verboten.
 
-## Streaming:
+## Streaming 
 
 ### Streaming
 Streaming ist erlaubt und erwünscht. Eröffnet ein Support-Ticket und postet euren Link. Für die Content-Creator-Rolle müsst ihr eine Weile streamen. Beim Streamen repräsentiert ihr das Projekt nach außen.
@@ -303,7 +303,7 @@ Streaming ist erlaubt und erwünscht. Eröffnet ein Support-Ticket und postet eu
 ### Streams anschauen
 Spieler, die sich IC befinden, dürfen Streams von Saints & Sinners nicht nebenbei ansehen – auch nicht im Lurk. Ausnahme: Moderatoren des jeweiligen Streamers. VoDs später anzusehen bleibt euch überlassen; Spoilergefahr ist euch bewusst.
 
-## Support & Kommunikation:
+## Support & Kommunikation 
 
 ### Aufzeichnen/Streamen/Screenshotten/Weiterversenden untersagt
 Das Aufzeichnen von Support-Gesprächen und Talk-Channels ist strengstens untersagt und wird mit einem Ausschluss bestraft.
@@ -317,7 +317,7 @@ Supportrelevante Themen sind ausschließlich über ein Ticket im dafür vorgeseh
 ### Ahnden von supportrelevanten Verstößen
 Der Support orientiert sich an einem Strafenkatalog: Bei drei Warns gibt es automatisch einen Bann. Bei drei temporären Banns wird die Whitelist entzogen; eine erneute Entbannung entscheidet der Support individuell. Schwere Regelverstöße (z. B. sexuelle Belästigung, wiederholtes Metagaming, offene Hetze) führen zu sofortigem Ausschluss.
 
-## Auslagen / Mitarbeiter des Monats:
+## Auslagen / Mitarbeiter des Monats 
 
 ### Themenkonsistenz
 Auslagen dienen der Präsentation und Werbung. Sie dürfen ausschließlich Gegenstände enthalten, die thematisch direkt zum Konzept des Geschäfts passen (z.B. verkauft ein Waffenhändler eben keine Nahrung oder Jagderzeugnisse).
