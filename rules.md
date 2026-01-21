@@ -42,7 +42,10 @@ Teilnahme ab 18 Jahren. Hier gibt es auch keine Ausnahmen.
 Jede Form von Fremdwerbung oder Verhalten, das dem Ansehen des Servers schadet, ist verboten und wird mit einem Ausschluss bestraft.
 
 ### Exploits & Grauzonen
-Das Ausnutzen technischer oder regelbasierter Schwächen ist verboten und zu melden.
+Das Ausnutzen technischer oder regelbasierter Schwächen ist verboten und zu melden. 
+
+`Bugabuse`
+- "So viel für ein paar Bretter?" sollte Anlass für ein Bugticket sein – nicht als Rechtfertigung für 10-Stunden-Schichten dienen.
 
 ### Discord-Name
 Der korrekte bzw. gleiche Discord-Name muss in den RedM-Einstellungen verwendet werden. Bei Missachtung erfolgt nach einer Verwarnung der Entzug der Whitelist.
