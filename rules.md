@@ -108,21 +108,23 @@ Powergaming liegt insbesondere vor, wenn:
 
 Powergaming ist ein schwerwiegender Verstoß gegen das Fairplay: Jede Aktion muss Raum für Reaktionen lassen – kein Charakter ist unbesiegbar. Wir spielen gemeinsam Geschichten – nicht gegeneinander.
 
-## Szenen
-Szenen ohne klare, logische Aussage müssen nicht bespielt werden. Der Ersteller ist vollständig für Inhalt, Logik und Identifizierbarkeit verantwortlich. Der Support greift hierbei nicht ein.
-
 ### Lasso-Einsatz
 Das Werfen eines Lassos, um jemanden zu fesseln, ist verboten, da es dem Ziel keine Chance zur Reaktion lässt und somit Powergaming darstellt. Das Fesseln mit einem Lasso ist jedoch erlaubt, ebenso das Entfesseln, solange die Situation logisch ist.
-
-### Scene-Tool
-Spieler dürfen Gebäude oder andere Objekte, die nicht ihnen gehören, nicht mittels des Scene-Tools zerstören, ohne zuvor ein Support-Ticket zu eröffnen und eine nachvollziehbare Begründung anzugeben. Das Scene-Tool ist dafür da, RP zu geben oder eine Szenerie zu schaffen. Beispiel: Ein schmutziges Zimmer kann gelöscht und durch eine Szene wie „ein sauber gewischter Boden“ ersetzt werden. Wenn man wichtige Szenarien verändert, sollte man auch Hinweise hinterlassen, um Veränderungen darzustellen. Gestaltet damit Szenerien und schafft RP.
 
 ### Platzierung von RP-Szenen
 Spieler dürfen eigenständig Szenen für andere Spieler platzieren, um das Rollenspiel zu bereichern. Solche Szenen können beispielsweise Schatzsuchen, mysteriöse Mordfälle oder andere spannende Ereignisse sein. Der Spieler, der die Szene vorbereitet, wird dabei nicht automatisch als handelnder Charakter (z. B. der Täter) betrachtet, sondern agiert im Hintergrund, um anderen Spielern eine interessante Herausforderung zu bieten.
 
+### Scene-Tool
+Spieler dürfen Gebäude oder andere Objekte, die nicht ihnen gehören, nicht mittels des Scene-Tools zerstören, ohne zuvor ein Support-Ticket zu eröffnen und eine nachvollziehbare Begründung anzugeben. Das Scene-Tool ist dafür da, RP zu geben oder eine Szenerie zu schaffen. Beispiel: Ein schmutziges Zimmer kann gelöscht und durch eine Szene wie „ein sauber gewischter Boden“ ersetzt werden. Wenn man wichtige Szenarien verändert, sollte man auch Hinweise hinterlassen, um Veränderungen darzustellen. Gestaltet damit Szenerien und schafft RP.
+
+`Wichtig:`
+Szenen ohne klare, logische Aussage müssen nicht bespielt werden. Der Ersteller ist vollständig für Inhalt, Logik und Identifizierbarkeit verantwortlich. Der Support greift hierbei nicht ein.
+
 ## Kein grundloses Töten
 
-### RDM/VDM sind untersagt. Kein Überfahren, kein Schießen ohne RP-Grundlage.
+### RDM / VDM
+- Das überfahren / niederreiten von spielern ist generell untersagt. Das absichtliche Überfahren oder Niederreiten von Spielern ist grundsätzlich verboten. 
+- Das Eröffnen des Feuers auf Mitspieler ohne eine nachvollziehbare RP-Grundlage gilt als RDM und wird entsprechend sanktioniert.
 
 ## Überfälle & Gewalt
 
@@ -182,9 +184,6 @@ Wer korrupt ist, muss mit Konsequenzen leben, sollte man erwischt werden. Mögli
 - Inhaftierung
 - Hinrichtung (Permadeath)
 
-### Sinnloses Verschenken
-Das sinnlose Verschenken von Staatsgeldern/Eigentum ist nicht gestattet; Ausnahmen bilden IC aufgesetzte Testamente. Auch das sinnlose Verschenken von Geld (über 50 Dollar) bei der Ausreise ist nicht gestattet.
-
 ## Straffälligkeit bei Gewerbebesitzern/Wirtschaftscrime
 
 ### Bei mehrfacher oder schwerer Straffälligkeit eines Unternehmensinhabers oder seiner direkten Unterstellten kann die Law
@@ -240,7 +239,8 @@ Das Ausspielen eines Suizids als Beendigung des aktuellen Charakters ist nicht g
 Der Tod eines Charakters muss immer mit dem Support abgesprochen werden. Nach Nutzung des Befehls muss ein Ticket eröffnet werden. Für den neuen Charakter ist eine neue Charaktergeschichte einzureichen, die sich deutlich vom alten unterscheidet.
 
 ### Testament
-Im Falle eines Charaktertodes ist es erlaubt, Besitz zu vererben – sofern ein schriftlich hinterlegtes Testament im RP existiert und die Übergabe ausgespielt wird. Ohne Testament erfolgt keine Übertragung von Besitztümern. Das Testament muss dem Support in einem Ticket vorgelegt werden.
+Testamente können IC ausgespielt werden. Administrative Unterstützung darf angefragt werden, wird jedoch nur in Ausnahmefällen (z. B. bei einem Tagebuch der verstorbenen Person) gewährt.
+Ist ein Permadeath "geplant", sollte dem betroffenen Spieler vorab die Möglichkeit gegeben werden, sein Erbe mechanisch an geeigneter Stelle (z. B. beim Pater oder im Sheriff’s Office) zu hinterlegen, um das anschließende Ausspielen zu erleichtern.
 
 ## Sisika & Zellen-RP 
 
@@ -267,16 +267,6 @@ Abwesenheiten ab 7 Tagen sind dem Team über ein Ticket mitzuteilen – idealerw
 ### Konsequenz bei Inaktivität
 Bei unangekündigter oder anhaltender Inaktivität kann das Konzept ohne Vorwarnung entzogen und ggf. neu vergeben werden.
 
-## Wirtschaft & Farmen 
-
-### Wirtschaft & Grindverhalten
-Wirklich Exzessives Farmen von Missionen, Ressourcen oder Items mit dem Ziel schneller Reichtümer widerspricht dem Geist dieses Servers. Es ist nicht Ziel nach einer Woche alles zu besitzen. Unser Fokus liegt auf tiefem, erzählerischem RP – nicht auf Progress-Grind. Auffälliges Grindverhalten kann zu einem Gespräch mit dem Team führen. Unvertretbare wirtschaftliche Ausnutzung kann zu einem Entzug der erlangten Güter führen. Wirtschaft entsteht aus Roleplay – nicht umgekehrt.
-
-## Eigentum & Besitz 
-
-### Verschenken verboten
-Das sinnlose oder übermäßige Verschenken von Gegenständen, Pferden, Geld, Housing oder anderen wirtschaftlich relevanten Inhalten ist nicht gestattet. Massives Begünstigen außerhalb des realistischen oder rollenspielerisch nachvollziehbaren Rahmens führt zur unwiderruflichen Löschung der Inhalte.
-
 ## Ärzte & medizinisches RP 
 ### Korruptionsverbot für staatliche Ärzte
 Staatliche Ärzte unterliegen der Korruptionsregelung und haben sich entsprechend neutral und gesetzestreu zu verhalten. 
@@ -299,9 +289,6 @@ Erkrankungen der Sexualorgane, Schwangerschaften und Totgeburten sind verboten.
 
 ### Streaming
 Streaming ist erlaubt und erwünscht. Eröffnet ein Support-Ticket und postet euren Link. Für die Content-Creator-Rolle müsst ihr eine Weile streamen. Beim Streamen repräsentiert ihr das Projekt nach außen.
-
-### Streams anschauen
-Spieler, die sich IC befinden, dürfen Streams von Saints & Sinners nicht nebenbei ansehen – auch nicht im Lurk. Ausnahme: Moderatoren des jeweiligen Streamers. VoDs später anzusehen bleibt euch überlassen; Spoilergefahr ist euch bewusst.
 
 ## Support & Kommunikation 
 
