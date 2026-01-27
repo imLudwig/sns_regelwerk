@@ -312,6 +312,9 @@ Der Support orientiert sich an einem Strafenkatalog: Bei drei Warns gibt es auto
 ### Themenkonsistenz
 Auslagen dienen der Präsentation und Werbung. Sie dürfen ausschließlich Gegenstände enthalten, die thematisch direkt zum Konzept des Geschäfts passen (z.B. verkauft ein Waffenhändler eben keine Nahrung oder Jagderzeugnisse).
 
+### Ortsbindung
+Die Platzierung des „Mitarbeiters des Monats“ ist auf das unmittelbare Betriebsumfeld beschränkt. Eine Verwendung als Platzhalter zur strategischen Gebietserschließung ohne eigene Präsenz ist untersagt.
+
 ### Lagerungsverbot
 Die Auslage darf nicht als persönliches oder geschäftliches Lager missbraucht werden. Eine Überfüllung zur reinen Aufbewahrung ist untersagt.
 
