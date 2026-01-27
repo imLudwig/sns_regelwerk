@@ -45,7 +45,7 @@ Jede Form von Fremdwerbung oder Verhalten, das dem Ansehen des Servers schadet, 
 Das Ausnutzen technischer oder regelbasierter Schwächen ist verboten und zu melden. 
 
 `Bugabuse`
-- "So viel für ein paar Bretter?" sollte Anlass für ein Bugticket sein – nicht als Rechtfertigung für 10-Stunden-Schichten dienen.
+- “So viel für ein paar Bretter?” soll zu einem Bugticket führen statt einem 10-Stunden-Grind.
 
 ### Discord-Name
 Der korrekte bzw. gleiche Discord-Name muss in den RedM-Einstellungen verwendet werden. Bei Missachtung erfolgt nach einer Verwarnung der Entzug der Whitelist.
