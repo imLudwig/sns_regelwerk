@@ -99,6 +99,12 @@ Das Bespielen von Tier- und Kindercharakteren ist nicht gestattet.
 ### IC/OOC-Trennung
 IC ist IC, OOC ist OOC. Keine Vermischung. Verstöße führen zu Ermahnungen oder Bann. Wir spielen ein Spiel – Rivalitäten sind genauso Teil davon wie Freundschaft.
 
+### Third-Party-Kommunikation: 
+Die Nutzung externer Programme (z. B. Discord) zur Absprache oder Informationsweitergabe während des Spielens ist untersagt. Beispiele:
+- Discord-Streams: Das Übertragen des Spielbildschirms an andere Spieler ist verboten.
+- Voice-Chat: Paralleles Sprechen im Discord/Teamspeak mit aktiven Mitspielern ist untersagt.
+`Ausnahme`: Öffentliches Streaming (beachte hierzu die Streaming-Regeln).
+
 ### Powergaming & Definition
 Spieler müssen sich auf realistische Interaktionen und Konflikte konzentrieren, anstatt Handlungen zu erzwingen oder Konflikte ohne Rücksicht auf andere Spieler zu überspringen. 
 Powergaming liegt insbesondere vor, wenn:
