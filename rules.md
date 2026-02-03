@@ -17,7 +17,7 @@ Es gelten die Discord-Nutzungsbedingungen. Als störend empfundenes Verhalten wi
 ### Jegliche Form von Belästigung, sei es verbal, körperlich (IC) oder durch wiederholte unerwünschte OOC-Kontakte, wird nicht toleriert.
 
 # IC-Regeln für das Spielen auf Saints & Sinners
-Zuletzt aktualisiert im Januar 2026
+Zuletzt aktualisiert im Februar 2026
 ## Immersion & Realismus
 Alle Teilnehmenden verpflichten sich, ihre Charaktere konsistent und glaubwürdig im Jahr 1899 zu verkörpern. Handlungen sollen nachvollziehbar und stimmig mit dem historischen Setting sein.
 
@@ -277,10 +277,10 @@ Abwesenheiten ab 7 Tagen sind dem Team über ein Ticket mitzuteilen – idealerw
 Bei unangekündigter oder anhaltender Inaktivität kann das Konzept ohne Vorwarnung entzogen und ggf. neu vergeben werden.
 
 ## Natives 
-### Kein Jodasprech
+### Kein Yodasprech
 Die Verwendung von künstlich gebrochenem Deutsch, wie zum Beispiel „Von Geld ich nichts halten, großer Schamane ich sein“, ist untersagt.
 
-## Bogen weitergabe
+### Bogen weitergabe
 Natives ist es untersagt, ihre Bögen dauerhaft an Nicht-Native-Spieler zu übergeben. Dies gilt auch für die kurzzeitige Weitergabe vor oder während absehbarer Konflikte und Auseinandersetzungen.
 
 ## Ärzte & medizinisches RP 
