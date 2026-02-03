@@ -276,6 +276,13 @@ Abwesenheiten ab 7 Tagen sind dem Team über ein Ticket mitzuteilen – idealerw
 ### Konsequenz bei Inaktivität
 Bei unangekündigter oder anhaltender Inaktivität kann das Konzept ohne Vorwarnung entzogen und ggf. neu vergeben werden.
 
+## Natives 
+### Kein Jodasprech
+Die Verwendung von künstlich gebrochenem Deutsch, wie zum Beispiel „Von Geld ich nichts halten, großer Schamane ich sein“, ist untersagt.
+
+## Bogen weitergabe
+Natives ist es untersagt, ihre Bögen dauerhaft an Nicht-Native-Spieler zu übergeben. Dies gilt auch für die kurzzeitige Weitergabe vor oder während absehbarer Konflikte und Auseinandersetzungen.
+
 ## Ärzte & medizinisches RP 
 ### Korruptionsverbot für staatliche Ärzte
 Staatliche Ärzte unterliegen der Korruptionsregelung und haben sich entsprechend neutral und gesetzestreu zu verhalten. 
